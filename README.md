@@ -2,4 +2,4 @@
 
 old malware source code
 
-used tutmalware by gabrik
+used tutmalware
